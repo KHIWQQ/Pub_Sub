@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import rospy
 import subprocess
 from my_package.msg import age_gender
